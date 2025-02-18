@@ -1,0 +1,79 @@
+[
+    {
+        "id": 1,
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic",
+        "copies": 5
+    },
+    {
+        "id": 2,
+        "title": "To Kill a Mockingbird",
+        "author": "Harper Lee",
+        "genre": "Classic",
+        "copies": 4
+    },
+    {
+        "id": 3,
+        "title": "1984",
+        "author": "George Orwell",
+        "genre": "Dystopian",
+        "copies": 6
+    },
+    {
+        "id": 4,
+        "title": "The Catcher in the Rye",
+        "author": "J.D. Salinger",
+        "genre": "Classic",
+        "copies": 3
+    },
+    {
+        "id": 5,
+        "title": "Pride and Prejudice",
+        "author": "Jane Austen",
+        "genre": "Romance",
+        "copies": 7
+    },
+    {
+        "id": 6,
+        "title": "The Hobbit",
+        "author": "J.R.R. Tolkien",
+        "genre": "Fantasy",
+        "copies": 5
+    },
+    {
+        "id": 7,
+        "title": "The Da Vinci Code",
+        "author": "Dan Brown",
+        "genre": "Thriller",
+        "copies": 4
+    },
+    {
+        "id": 8,
+        "title": "The Alchemist",
+        "author": "Paulo Coelho",
+        "genre": "Fiction",
+        "copies": 6
+    },
+    {
+        "id": 9,
+        "title": "Harry Potter and the Sorcerer\u2019s Stone",
+        "author": "J.K. Rowling",
+        "genre": "Fantasy",
+        "copies": 10
+    },
+    {
+        "id": 10,
+        "title": "The Silent Patient",
+        "author": "Alex Michaelides",
+        "genre": "Psychological Thriller",
+        "copies": 5
+    },
+    {
+        "id": 11,
+        "title": "Shkolla Digjitale",
+        "author": "Art",
+        "genre": "Classix",
+        "copies": "10"
+    }
+]
